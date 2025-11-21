@@ -2,4 +2,5 @@
 .terraform.lock.hcl
 *.swp
 terraform.tfvars
+terraform.tfstate*
 authorized_keys
